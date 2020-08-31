@@ -14,3 +14,6 @@ In this project:
 3. Using graphviz, the flowchart depicting the flower prediction model is plotted
 4. Given a new flower, its species is predicted.
 5. The accuracy in prediction is estimated.
+
+## Details
+1. Classifier created to differentiate the 3 species
