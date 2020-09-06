@@ -17,3 +17,4 @@ In this project:
 
 ## Details
 1. Classifier created to differentiate the 3 species
+2. Cross validation performed using train and test dataset to determine the accuracy efficiently
